@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 Hoje trabalho com Back-End.
-- 🌱 Estudando nodeJS,C#,Java,JavaScript e SQL.
+- 🌱 Estudando nodeJS,C#,Java,JavaScript,SQL,Phyton.
 - 📫 Contate-me no email: santicioliv@gmail.com
 - 😄 Pronouns: Ele/Dele
 -->
