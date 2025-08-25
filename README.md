@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 <div>
   <!-- GithubStats -->
-![victorsanticioli GitHub stats](https://github-readme-stats.vercel.app/api?username=victorsanticioli&show_icons=true&theme=synthwave)
+![victorsanticioli GitHub stats](https://github-readme-stats.vercel.app/api?username=victorsanticioli&show_icons=true&theme=cobalt)
 
 </div>
 
