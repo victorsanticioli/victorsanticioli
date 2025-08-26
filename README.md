@@ -1,6 +1,4 @@
 ### Olá eu sou o Victor desenvolvedor Back-End Junior.
-As tecnologias que eu possuo experiencia são C#, JavaScript, Banco de Dados Oracle.
-As tecnologias que possuo conhecimento são Java, Nodejs, TypeScript, Python, MySql, Microsoft SQLServer, HTML-5, CSS-3.
 👋
 
 <!--
