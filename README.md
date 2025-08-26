@@ -5,7 +5,6 @@ As tecnologias que possuo conhecimento são Java,Nodejs,TypeScript,Python,MySql,
 
 <!--
 **victorsanticioli/victorsanticioli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorsanticioli)](https://github.com/victorsanticioli/github-readme-stats)
 
 Here are some ideas to get you started:
 
@@ -35,6 +34,7 @@ Here are some ideas to get you started:
   
           
 </div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorsanticioli)](https://github.com/victorsanticioli/github-readme-stats)
 
 
   ##
