@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 -->
 <div>
   <!-- GithubStats -->
-  [![victorsanticioli GitHub stats](https://github-readme-stats.vercel.app/api?username=victorsanticioli)](https://github.com/victorsanticioli/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorsanticioli)](https://github.com/victorsanticioli/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorsanticioli&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorsanticioli&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorsanticioli&show_icons=true&theme=tokyonight)
 
 
 
