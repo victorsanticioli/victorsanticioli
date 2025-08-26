@@ -7,9 +7,9 @@
 Here are some ideas to get you started:
 
 - 🔭 Hoje trabalho com Back-End.
-- 🌱 Estudando nodeJS,C#,Java,JavaScript,SQL,Phyton.
-- 🌱 Experiencia em C#,JavaScript e Banco de Dados Oracle.
-- 🌱 Conhecimentos em Java,Python,nodeJs,TyperScript,HTML-5,CSS-3.
+- 🌱 Estudando nodeJS ,C# ,Java, JavaScript ,SQL, Phyton.
+- 🌱 Experiencia em C#, JavaScript e Banco de Dados Oracle.
+- 🌱 Conhecimentos em Java, Python, nodeJs, TyperScript, HTML-5, CSS-3.
 - 🌱 Frameworks:Express.js,Boostrap,React.js.
 - 📫 Contate-me no email: santicioliv@gmail.com
 - 😄 Pronouns: Ele/Dele
