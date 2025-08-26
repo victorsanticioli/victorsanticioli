@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 -->
 <div>
   <!-- GithubStats -->
-![victorsanticioli GitHub stats](https://github-readme-stats.vercel.app/api?username=victorsanticioli&show_icons=true&theme=cobalt)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorsanticioli)](https://github.com/victorsanticioli/github-readme-stats)
+
 
 </div>
 
