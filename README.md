@@ -1,4 +1,7 @@
-### Ola eu sou o Victor desenvolvedor Back-End. 👋
+### Ola eu sou o Victor desenvolvedor Back-End Junior.
+As tecnologias que eu possuo experiencia são C#,JavaScript,Banco de Dados Oracle.
+As tecnologias que possuo conhecimento são Java,Nodejs,TypeScript,Python.
+👋
 
 <!--
 **victorsanticioli/victorsanticioli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
