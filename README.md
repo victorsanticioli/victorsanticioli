@@ -24,9 +24,7 @@ Here are some ideas to get you started:
   />
   <img src="https://github-readme-stats.vercel.app/api?username=victorsanticioli&show_icons=true" />
 </picture>
-<a href="https://github.com/victorsanticioli/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=victorsanticioli" />
-</a>
+
 
 
 
