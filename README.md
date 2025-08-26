@@ -23,10 +23,8 @@ Here are some ideas to get you started:
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=victorsanticioli&show_icons=true" />
+
 </picture>
-<a href="https://github.com/victorsanticioli/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victorsanticioli&repo=convoychat" />
-</a>
 
 
 
